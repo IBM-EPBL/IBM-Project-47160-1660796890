@@ -1,1 +1,0 @@
-Sneha NS Readme file.
