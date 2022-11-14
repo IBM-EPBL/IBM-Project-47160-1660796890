@@ -1,1 +1,1 @@
-Ideathion phase documents
+Ideation phase documents
