@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-dark{
+	background-color: #020824;
+}
+
+
+.mt-50{
+	margin-top: 80px;
+}
+#canvas{
+    border: 2px solid rgb(206, 8, 8);
+}
